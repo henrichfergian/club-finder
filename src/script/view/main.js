@@ -23,7 +23,7 @@ const main = () => {
     };
 
     const renderResult = results => {
-        clubListElement.club = results;
+        clubListElement.clubs = results;
     };
 
     const fallbackResult = message => {
